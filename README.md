@@ -9,7 +9,7 @@ There are multiple deployment models available for a scalable and secure deploym
 ### Table of Contents
 
 - [Considerations ](#considerations)
-- [Architecture](#architecture)
+- [Structural Flow](#structural-flow)
 - [Deployment Models ](#deployment-models)
     - [Microsoft Azure ](#microsoft-azure)
          - [Low Traffic Volume Model ](#low-traffic-volume-model)
